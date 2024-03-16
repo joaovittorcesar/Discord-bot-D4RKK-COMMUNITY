@@ -1,0 +1,4 @@
+json.sqlite
+.env
+node_modules
+.gitattributes
